@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="change_language">Pengaturan Bahasa</string>
+    <string name="overview">Gambaran Cerita</string>
+    <string name="movies">Film</string>
+    <string name="tv_show">Acara Tv</string>
+    <string name="error_massage">Mohon Untuk Mengecek Jaringan Anda</string>
+    <string name="favorite_movie">Film Favorite</string>
+    <string name="favorite_tv_show">Acara Tv Favorite</string>
+    <string name="remove_favorit">Hapus Favorit</string>
+    <string name="search">Pencarian</string>
+    <string name="search_hint">Masukkan Kata</string>
+    <string name="appwidget_text">CONTOH</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="movie_poster">Poster Film</string>
+    <string name="no_data">Tidak Ada Data</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="release_desc">\t Pengingat menampilkan film \n rilis hari ini</string>
+    <string name="daily_desc">\t Pengingat Setiap Hari</string>
+    <string name="reminder_settings">Pengaturan Pengingat</string>
+</resources>
